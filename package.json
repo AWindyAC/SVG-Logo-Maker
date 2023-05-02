@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "dependencies": {
+    "inquire": "^0.4.8",
+    "shapes": "^0.4.0"
+  }
+}
